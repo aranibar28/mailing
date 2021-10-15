@@ -1,0 +1,45 @@
+.footer {
+  text-align: center;
+
+  .footer-intro {
+    padding: 3.7rem 3.7rem 1.9rem;
+    p {
+      padding: 0 8rem;
+      font-size: 1.3rem;
+      line-height: 1.852rem;
+    }
+  }
+
+  .footer-brand {
+    p {
+      padding: 0 8rem;
+      font-size: 1.3rem;
+    }
+
+    h3 {
+      padding: 1.3rem;
+    }
+    span {
+      a {
+        font-size: 1.3rem;
+        padding: 1rem;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  nav {
+    padding: 10px;
+    ul {
+      display: flex;
+      justify-content: center;
+      li {
+        margin: 0 15px;
+        i {
+          color: #000;
+          font-size: 1.8rem;
+        }
+      }
+    }
+  }
+}
